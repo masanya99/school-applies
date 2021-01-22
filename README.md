@@ -5,6 +5,7 @@
 - [Академию больших данных MADE](MADE)
 - [Яндекс стажировку](Yandex)
 - [Школу Аналитиков Х5](X5)
-- [Raiffeisen Evolve 2021](Raiffeisen).
+- [Raiffeisen Evolve 2021](Raiffeisen)
+- [Тестовое задание Яндекс](Yandex_job)
 
 Еще пробовала что-то поделать на хакатоне [Yandex Cup](Yandex_Cup).
